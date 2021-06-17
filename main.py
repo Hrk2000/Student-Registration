@@ -430,7 +430,7 @@ def main_window():
     mainloop()
 
 # Splah timer
-splash_root.after(1000, main_window)
+splash_root.after(2000, main_window)
 
 
 splash_root.mainloop()
